@@ -1,4 +1,4 @@
-<p align="center">[![MastreHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKohhe6zGdyl4TAOSb9gQWMARO-bjgSz1GEw&s)](https://GOHEL8104.io)</p>
+<img align="center" alt="MasterHead" width="600" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKohhe6zGdyl4TAOSb9gQWMARO-bjgSz1GEw&s">
 <h1 align="center">Hi 👋, I'm Hardik Gohel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
