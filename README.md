@@ -1,6 +1,6 @@
 <img margin="center" alt="MasterHead" width="600" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKohhe6zGdyl4TAOSb9gQWMARO-bjgSz1GEw&s">
 <h1 align="center">Hi 👋, I'm Hardik Gohel</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate App and Web developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hohel8104&label=Profile%20views&color=0e75b6&style=flat" alt="hohel8104" /> </p>
